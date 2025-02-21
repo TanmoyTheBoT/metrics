@@ -2346,7 +2346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FabianBeiner/PHP-IMDB-Grabber</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This PHP library enables you to scrape data from IMDB.com.</div>
@@ -2399,7 +2399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scrapy-plugins/scrapy-splash</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrapy+Splash for JavaScript integration</div>
@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cinemagoer/cinemagoer</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies</div>
@@ -3222,7 +3222,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2025, 22:27:43 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2025, 02:23:17 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
