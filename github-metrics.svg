@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>is-not-cool/registration</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get your own 'is-not.cool' subdomain!</div>
@@ -2831,7 +2831,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.31m out of 158m users</span>
+                                    <span class="gh">ranked 2.32m out of 158m users</span>
                                 </div>
                                 <div class="text">Published 26 public repositories</div>
                             </div>
@@ -3251,7 +3251,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2025, 18:39:13 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2025, 22:26:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
