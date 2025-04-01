@@ -2325,7 +2325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psy-ex/svt-av1-psy</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) with perceptual enhancements for psychovisually optimal AV1 encoding</div>
@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockur/windows</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows inside a Docker container.</div>
@@ -2431,7 +2431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnjulek/vapoursynth-zip</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VapourSynth Zig Image Process ⚡🎞️</div>
@@ -2484,7 +2484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wxWidgets/Phoenix</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.</div>
@@ -3202,7 +3202,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.62m out of 235m repositories</span>
+                                    <span class="gh">ranked 5.62m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3284,7 +3284,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2025, 08:03:53 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2025, 10:30:02 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
