@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bengarney/list-of-streams</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community list of public test streams for HLS and DASH.</div>
@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shaka-project/shaka-packager</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.</div>
@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>globocom/m3u8</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>streamlink/streamlink</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Streamlink is a CLI utility which pipes video streams from various services into a video player</div>
@@ -2738,7 +2738,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2025, 07:51:45 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2025, 10:27:52 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
