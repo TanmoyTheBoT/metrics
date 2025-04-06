@@ -2350,7 +2350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chu23465/VT-PR</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VineTrimmer with PlayReady support, WIP. A DRM Removal Framework for Streaming Services.</div>
@@ -2403,7 +2403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyugogirubato/API-Crunchyroll-Beta</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New crunchyroll api 2021.</div>
@@ -2444,7 +2444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyugogirubato/mangaplus</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python client for the MangaPlus API.</div>
@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DevLARLEY/WidevineFetch</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parses 'Copy as fetch' of a license request, locates the challenge if license wrapping is being used, extracts the pssh data and re-sends the request.</div>
@@ -2742,7 +2742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2025, 14:28:11 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2025, 18:41:58 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
