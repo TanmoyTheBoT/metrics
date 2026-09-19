@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            579 Commits
+                            590 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    13 Releases
+                                    16 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.60308660364336" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="352.60308660364336" y="0" width="53.616795288293446" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="406.21988189193684" y="0" width="33.22669429365141" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="439.4465761855882" y="0" width="13.628335902461686" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="453.07491208804987" y="0" width="3.339689131839877" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.4146012198898" y="0" width="1.6986195043438381" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.1132207242336" y="0" width="1.0931022226721254" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.2063229469057" y="0" width="0.7936770530942596" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.53078793138917" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="352.53078793138917" y="0" width="53.605801558354194" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="406.13658948974336" y="0" width="33.21988140411047" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="439.35647089385384" y="0" width="13.719861132592246" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="453.0763320264461" y="0" width="3.3390043531208375" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.41533637956695" y="0" width="1.6982712148946106" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.11360759446154" y="0" width="1.0928780900926334" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.20648568455414" y="0" width="0.7935143154458458" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShadowHackrs/Gmail-infinity</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">**Gmail Infinity Factory 2026** is an advanced Gmail account automation engine built on next-generation stealth technology. It leverages **CloakBrowser** and **Playwright** with a multi-layer architecture that accurately mimics real human behavior and evades all automated detection systems.</div>
@@ -2731,7 +2731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2026, 00:32:13 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2026, 04:16:48 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
